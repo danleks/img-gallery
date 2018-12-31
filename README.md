@@ -1,6 +1,6 @@
 # image gallery
 
-An image gallery created to master css and vuejs.
+A responsive image gallery created to master css and vuejs.
 
 ## helpful links:
 
